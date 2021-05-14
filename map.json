@@ -35,9 +35,24 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"jitsiConfig",
+                 "type":"string",
+                 "value":"{ \"startWithAudioMuted\": true }"
+                }, 
+                {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Technischer Support"
+                 "value":"Technik"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"jitsiTriggerMessage",
+                 "type":"string",
+                 "value":"LEERTASTE dr\u00fccken, wenn Du mit dem technischen Support sprechen willst"
                 }],
          "type":"tilelayer",
          "visible":true,
