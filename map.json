@@ -201,7 +201,7 @@
  "properties":[
         {
          "name":"openWebsite",
-         "type":"string",
+         "type":"file",
          "value":"iframe.html"
         }, 
         {
